@@ -35,7 +35,7 @@ Para abrir o Cypress e rodar os testes, use o comando:
 ```bash
 npx cypress open
 ```
-(Obs: a integração contínua (CI) ainda não está funcionando corretamente.)
+(Obs: apesar de todos os testes terem funcinado, a integração contínua (CI) ainda não está funcionando corretamente.)
 
 ### Como Contribuir:
 
